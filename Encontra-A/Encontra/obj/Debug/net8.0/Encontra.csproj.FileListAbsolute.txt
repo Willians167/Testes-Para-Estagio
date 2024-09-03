@@ -1,0 +1,14 @@
+D:\Estagio-Ribeirão-Preto\Encontra-A\Encontra\bin\Debug\net8.0\Encontra.exe
+D:\Estagio-Ribeirão-Preto\Encontra-A\Encontra\bin\Debug\net8.0\Encontra.deps.json
+D:\Estagio-Ribeirão-Preto\Encontra-A\Encontra\bin\Debug\net8.0\Encontra.runtimeconfig.json
+D:\Estagio-Ribeirão-Preto\Encontra-A\Encontra\bin\Debug\net8.0\Encontra.dll
+D:\Estagio-Ribeirão-Preto\Encontra-A\Encontra\bin\Debug\net8.0\Encontra.pdb
+D:\Estagio-Ribeirão-Preto\Encontra-A\Encontra\obj\Debug\net8.0\Encontra.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estagio-Ribeirão-Preto\Encontra-A\Encontra\obj\Debug\net8.0\Encontra.AssemblyInfoInputs.cache
+D:\Estagio-Ribeirão-Preto\Encontra-A\Encontra\obj\Debug\net8.0\Encontra.AssemblyInfo.cs
+D:\Estagio-Ribeirão-Preto\Encontra-A\Encontra\obj\Debug\net8.0\Encontra.csproj.CoreCompileInputs.cache
+D:\Estagio-Ribeirão-Preto\Encontra-A\Encontra\obj\Debug\net8.0\Encontra.dll
+D:\Estagio-Ribeirão-Preto\Encontra-A\Encontra\obj\Debug\net8.0\refint\Encontra.dll
+D:\Estagio-Ribeirão-Preto\Encontra-A\Encontra\obj\Debug\net8.0\Encontra.pdb
+D:\Estagio-Ribeirão-Preto\Encontra-A\Encontra\obj\Debug\net8.0\Encontra.genruntimeconfig.cache
+D:\Estagio-Ribeirão-Preto\Encontra-A\Encontra\obj\Debug\net8.0\ref\Encontra.dll

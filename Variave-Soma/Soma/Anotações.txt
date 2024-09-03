@@ -1,0 +1,29 @@
+Algoritmo de Somatório com Laço de Repetição
+Descrição:
+Este repositório contém um algoritmo simples que realiza um somatório de valores utilizando um laço de repetição. O algoritmo inicia com um valor definido de INDICE, e em seguida, soma os valores incrementados de K à variável SOMA até que K atinja o valor de INDICE.
+
+Inicialização
+INDICE: 12
+SOMA: 0
+K: 1
+Lógica do Algoritmo
+O laço de repetição executa as seguintes operações enquanto K for menor que INDICE:
+
+Incrementa o valor de K.
+Adiciona o valor de K à variável SOMA.
+Iterações
+Aqui estão as iterações do laço e o valor acumulado de SOMA em cada passo:
+
+Iteração 1: K = 2, SOMA = 2 (0 + 2)
+Iteração 2: K = 3, SOMA = 5 (2 + 3)
+Iteração 3: K = 4, SOMA = 9 (5 + 4)
+Iteração 4: K = 5, SOMA = 14 (9 + 5)
+Iteração 5: K = 6, SOMA = 20 (14 + 6)
+Iteração 6: K = 7, SOMA = 27 (20 + 7)
+Iteração 7: K = 8, SOMA = 35 (27 + 8)
+Iteração 8: K = 9, SOMA = 44 (35 + 9)
+Iteração 9: K = 10, SOMA = 54 (44 + 10)
+Iteração 10: K = 11, SOMA = 65 (54 + 11)
+Iteração 11: K = 12, SOMA = 77 (65 + 12)
+Resultado Final
+Após todas as iterações, o valor final de SOMA é 77.

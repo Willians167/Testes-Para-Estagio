@@ -1,0 +1,14 @@
+D:\Estagio-Ribeirão-Preto\Fibonacci\Fibonacci\bin\Debug\net8.0\Fibonacci.exe
+D:\Estagio-Ribeirão-Preto\Fibonacci\Fibonacci\bin\Debug\net8.0\Fibonacci.deps.json
+D:\Estagio-Ribeirão-Preto\Fibonacci\Fibonacci\bin\Debug\net8.0\Fibonacci.runtimeconfig.json
+D:\Estagio-Ribeirão-Preto\Fibonacci\Fibonacci\bin\Debug\net8.0\Fibonacci.dll
+D:\Estagio-Ribeirão-Preto\Fibonacci\Fibonacci\bin\Debug\net8.0\Fibonacci.pdb
+D:\Estagio-Ribeirão-Preto\Fibonacci\Fibonacci\obj\Debug\net8.0\Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estagio-Ribeirão-Preto\Fibonacci\Fibonacci\obj\Debug\net8.0\Fibonacci.AssemblyInfoInputs.cache
+D:\Estagio-Ribeirão-Preto\Fibonacci\Fibonacci\obj\Debug\net8.0\Fibonacci.AssemblyInfo.cs
+D:\Estagio-Ribeirão-Preto\Fibonacci\Fibonacci\obj\Debug\net8.0\Fibonacci.csproj.CoreCompileInputs.cache
+D:\Estagio-Ribeirão-Preto\Fibonacci\Fibonacci\obj\Debug\net8.0\Fibonacci.dll
+D:\Estagio-Ribeirão-Preto\Fibonacci\Fibonacci\obj\Debug\net8.0\refint\Fibonacci.dll
+D:\Estagio-Ribeirão-Preto\Fibonacci\Fibonacci\obj\Debug\net8.0\Fibonacci.pdb
+D:\Estagio-Ribeirão-Preto\Fibonacci\Fibonacci\obj\Debug\net8.0\Fibonacci.genruntimeconfig.cache
+D:\Estagio-Ribeirão-Preto\Fibonacci\Fibonacci\obj\Debug\net8.0\ref\Fibonacci.dll
